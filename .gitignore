@@ -1,0 +1,9 @@
+
+#忽略linux上的备份文件
+*~
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
