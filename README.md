@@ -2,7 +2,7 @@
 MonkeyJoker for android
 
 ***
-## 版本更新概况
+## README版本更新概况
 * 2016.02.22 项目初步结构确定
 
 
@@ -18,6 +18,8 @@ MonkeyJoker for android
 
 * * *
 ## 项目工具及开发环境
+
+* mvp
 * 该项目使用统一的keystore
 * jdk版本为1.8及以上
 * 使用AndroidStudio作为IDE
@@ -58,3 +60,7 @@ MonkeyJoker for android
       - styles
       - colors
     - menu
+
+
+---
+## 使用到的第三方库
