@@ -18,7 +18,8 @@ MonkeyJoker for android
 
 ## 项目目录结构
 ##### 初步结构
- ### app ---module
+
+### app ---module
  * libs   --- jar包
  * src
   - assets
