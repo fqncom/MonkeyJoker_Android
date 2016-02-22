@@ -7,6 +7,16 @@ MonkeyJoker for android
 
 
 ---
+### 分支管理策略
+* master——发布版本分支
+* develop——开发版本分支
+* xxx——自命名分支
+
+  >平常的功能模块开发push到自己的自命名分支，待完成时merge到develop分支
+  阶段性开发完成再将develop分支merge到master
+
+
+* * *
 ## 项目工具及开发环境
 * 该项目使用统一的keystore
 * jdk版本为1.8及以上
